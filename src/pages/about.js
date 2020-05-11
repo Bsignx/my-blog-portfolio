@@ -1,18 +1,12 @@
 import React from 'react';
-import { Link } from 'gatsby';
+import Layout from '../components/Layout';
+import SEO from "../components/seo";
 
 const AboutPage = () => (
-  <>
-    <h1>About</h1>
-    <ul>
-      <li>
-        <Link to="/about" activeStyle={{ color: '#ff3fff' }}>About</Link>
-      </li>
-      <li>
-        <Link to="/">Home</Link>
-      </li>
-    </ul>
-  </>
+    <Layout>
+      <SEO title="About" />
+      <h1>About</h1>
+    </Layout>
 )
 
 export default AboutPage;
