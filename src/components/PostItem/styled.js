@@ -15,8 +15,9 @@ export const PostItemLink = styled(AniLink)`
 `
 
 export const PostItemWrapper = styled.section`
+  margin-top: 0.7rem;
+  background-color: var(--background);
   align-items: center;
-  border-bottom: 5px solid var(--borders);
   border-radius: 1rem;
   display: flex;
   padding: 2rem 3rem;
@@ -29,9 +30,12 @@ export const PostItemWrapper = styled.section`
   }
 
   ${media.lessThan("large")`
+    margin-top: 0;
+    margin-bottom: 0.5rem;
     align-items: flex-start;
     flex-direction: column;
     padding: 2rem 1rem;
+    border-radius: 0;
   `}
 `
 

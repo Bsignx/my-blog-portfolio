@@ -2,7 +2,6 @@ import styled from "styled-components"
 import media from "styled-media-query"
 
 export const SearchWrapper = styled.section`
-  background: var(--background);
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -49,7 +48,7 @@ export const SearchWrapper = styled.section`
   .ais-SearchBox-input {
     background: none;
     border: none;
-    border-bottom: 1px solid var(--borders);
+    border-bottom: 2px solid var(--background);
     color: var(--textsPostHome);
     display: flex;
     font-size: 1.6rem;

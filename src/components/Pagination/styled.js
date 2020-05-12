@@ -2,6 +2,8 @@ import styled from 'styled-components'
 import media from "styled-media-query"
 
 export const PaginationWrapper = styled.section`
+  background-color: var(--background);
+  margin-top: 0.7rem;
   align-items: center;
   border-top: 1px solid var(--borders);
   color: var(--texts);  
@@ -10,6 +12,7 @@ export const PaginationWrapper = styled.section`
   justify-content: space-between;
 
   ${media.lessThan("large")`
+    margin-top: 0rem;
     font-size: .8rem;
     padding: 1rem;
   `}

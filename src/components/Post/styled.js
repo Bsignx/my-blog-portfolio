@@ -2,6 +2,7 @@ import styled from "styled-components"
 import media from "styled-media-query"
 
 export const PostHeader = styled.header`
+  background: var(--background);
   color: var(--postColor);
   margin: auto;
   max-width: 70rem;
@@ -49,6 +50,7 @@ export const PostDate = styled.p`
 `
 
 export const MainContent = styled.section`
+  background: var(--background);
   margin: auto;
   max-width: 70rem;
   padding: 2rem 5rem;
