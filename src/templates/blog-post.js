@@ -49,7 +49,7 @@ export const query = graphql`
         image
       }
       html
-      timeToRead 
+      timeToRead
     }
   }
 `
