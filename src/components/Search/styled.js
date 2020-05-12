@@ -29,7 +29,7 @@ export const SearchWrapper = styled.section`
     `}
   }
   .ais-Stats {
-    color: var(--texts);
+    color: var(--textsPostHome);
   }
   body#grid & {
     .ais-Hits-list {
@@ -50,13 +50,13 @@ export const SearchWrapper = styled.section`
     background: none;
     border: none;
     border-bottom: 1px solid var(--borders);
-    color: var(--texts);
+    color: var(--textsPostHome);
     display: flex;
     font-size: 1.6rem;
     padding: 0.5rem;
     width: 100%;
     &::placeholder {
-      color: var(--texts);
+      color: var(--textsPostHome);
     }
   }
   .ais-SearchBox-submit,

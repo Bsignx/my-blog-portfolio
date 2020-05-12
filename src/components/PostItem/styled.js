@@ -3,20 +3,21 @@ import media from "styled-media-query"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 export const PostItemLink = styled(AniLink)`
-  color: var(--texts);
+  color: var(--textsPostHome);
   display: flex;
   text-decoration: none;
   body#grid & {
     background-color: var(--background);
   }
   &:hover {
-    color: var(--highlight);
+    color: var(--highlightTwo);
   }
 `
 
 export const PostItemWrapper = styled.section`
   align-items: center;
-  border-bottom: 1px solid var(--borders);
+  border-bottom: 5px solid var(--borders);
+  border-radius: 1rem;
   display: flex;
   padding: 2rem 3rem;
   width: 100%;
@@ -37,8 +38,8 @@ export const PostItemWrapper = styled.section`
 export const PostItemTag = styled.div`
   align-items: center;
   background: ${props =>
-    props.background ? props.background : "var(--highlight)"};
-  border-radius: 50%;
+    props.background ? props.background : "var(--highlightTwo)"};
+  border-radius: 1rem;
   color: #fff;
   display: flex;
   font-size: 1.3rem;
@@ -66,7 +67,9 @@ export const PostItemInfo = styled.div`
   display: flex;
   flex-direction: column;
   margin-left: 1.5rem;
-
+  body#grid & {
+    text-align: center;
+  }
   ${media.lessThan("large")`
     margin: 0;
   `}

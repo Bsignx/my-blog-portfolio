@@ -3,24 +3,16 @@ const handle = 'bruno'
 const links = [
   {
     label: "Github",
-    url: `https://github.com/${handle}`
+    url: `https://github.com/Bsignx`
   },
   {
-    label: "Twitter",
-    url: `https://github.com/${handle}`
+    label: "Linkedin",
+    url: `https://www.linkedin.com/in/bruno-mariano-5b9281195/`
   },
   {
-    label: "Youtube",
-    url: `https://github.com/${handle}`
+    label: "Quora",
+    url: `https://pt.quora.com/profile/Bruno-Mariano-1`
   },
-  {
-    label: "Unsplash",
-    url: `https://github.com/${handle}`
-  },
-  {
-    label: "Instagram",
-    url: `https://github.com/${handle}`
-  }
-]
+] 
 
 export default links;

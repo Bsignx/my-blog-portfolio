@@ -7,7 +7,7 @@ module.exports = {
     title: `Bruno Mariano`,
     position: `Web Developer`,
     description: `A blog about web development and other cool stuff.`,
-    author: `@myblog`,
+    author: `@brunomariano`,
     siteUrl: `https://brunomariano.netlify.app/`,
   },
   plugins: [
@@ -74,18 +74,19 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `John Doe`,
-        short_name: `John Doe`,
+        name: `Bruno Mariano`,
+        short_name: `Bruno Mariano`,
         start_url: `/`,
-        background_color: `#16202c`,
-        theme_color: `#16202c`,
+        background_color: `#1D1D2F`,
+        theme_color: `#1D1D2F`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-sitemap`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
+    `gatsby-plugin-netlify-cms`,
   ],
 }
