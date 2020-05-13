@@ -2,7 +2,7 @@
     name: github
     repo: Bsignx/my-blog-portfolio
     branch: master
-    site_domain: https://brunomariano.netlify.app/
+    site_domain: brunomariano.netlify.app
 
   publish_mode: editorial_workflow
   media_folder: "static/assets/img"
