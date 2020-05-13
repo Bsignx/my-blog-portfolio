@@ -7,7 +7,7 @@ export const PostItemLink = styled(AniLink)`
   display: flex;
   text-decoration: none;
   body#grid & {
-    background-color: var(--background);
+    
   }
   &:hover {
     color: var(--highlightTwo);
@@ -15,6 +15,8 @@ export const PostItemLink = styled(AniLink)`
 `
 
 export const PostItemWrapper = styled.section`
+  -webkit-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.3); 
+  box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.3);
   margin-top: 0.7rem;
   background-color: var(--background);
   align-items: center;
@@ -23,8 +25,10 @@ export const PostItemWrapper = styled.section`
   padding: 2rem 3rem;
   width: 100%;
   body#grid & {
+    box-shadow: none;
     border: none;
     padding: 2rem 1rem;
+    grid-gap: 1rem;
     flex-direction: column;
     justify-content: center;
   }

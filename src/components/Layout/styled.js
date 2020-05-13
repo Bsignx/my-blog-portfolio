@@ -9,6 +9,7 @@ export const LayoutWrapper = styled.section`
 `
 
 export const LayoutMain = styled.main`
+  margin: 0 1rem;
   background: var(--mediumBackground);
   min-height: 100vh;
   padding: 0 3.75rem 0 20rem;
@@ -21,6 +22,7 @@ export const LayoutMain = styled.main`
   }
 
   ${media.lessThan("large")`
+    margin: 0;
     padding: 4.125rem 0 3rem 0;
   `}
 `

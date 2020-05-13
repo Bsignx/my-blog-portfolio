@@ -2,10 +2,11 @@ import styled from 'styled-components'
 import media from "styled-media-query"
 
 export const PaginationWrapper = styled.section`
+  -webkit-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.3); 
+  box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.3);
   background-color: var(--background);
   margin-top: 0.7rem;
   align-items: center;
-  border-top: 1px solid var(--borders);
   color: var(--texts);  
   display: flex;
   padding: 1.5rem 3rem;

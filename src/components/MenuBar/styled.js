@@ -15,6 +15,9 @@ export const MenuBarWrapper = styled.aside`
   right: 0;
   width: 3.75rem;
   transition: background 0.5s;
+  -webkit-box-shadow: 0px 0px 3px 2px rgba(0,0,0,0.3); 
+  box-shadow: 0px 0px 3px 2px rgba(0,0,0,0.3);
+
   ${media.lessThan("large")`
     border-top: 1px solid var(--borders);
     bottom: 0;
@@ -23,6 +26,8 @@ export const MenuBarWrapper = styled.aside`
     padding: 0;
     position: fixed;
     width: 100%;
+    -webkit-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.3); 
+    box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.3);
   `}
 `
 
