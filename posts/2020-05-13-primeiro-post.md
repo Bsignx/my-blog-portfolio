@@ -1,9 +1,9 @@
 ---
-title: Primeiro Post
+title: Segundo Post
 description: Mussum Ipsum, cacilds vidis litro abertis. Quem manda na minha
   terra sou euzis! Pra lá , depois divoltis porris, paradis.
-date: 2020-05-13 09:42:37
-image: /assets/img/wallpaperflare.com_wallpaper.jpg
+date: 2020-05-13T09:42:37.000Z
+image: /assets/img/cover.png
 category: misc
 background: "#7AAB13"
 ---
