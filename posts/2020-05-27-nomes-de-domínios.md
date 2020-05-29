@@ -100,37 +100,39 @@ Se você fazer isso o suficiente, perceberá que existem MILHARES de bons nomes 
 
 ## Então o que você deveria fazer?
 
-Se você ainda quer começar novos projetos legais, então o que você deve fazer: não comprar o nome interessante que você encontrou?
+Se ainda assim você deseja começar novos projetos legais, então o que deve ser feito, não comprar o nome incrível que você encontrou?
 
-Aqui estão às duas maneiras que vejo:
+Aqui estão as duas maneiras que vejo:
 
 ### Criar um nome de marca unificado para todos os seus projetos
 
-Um monte de pessoas usam "meunome.com", que é muito bom, com isso se tem benefícios como você ter a possibilidade de lançar "meunome.com/projeto-xxx", mesmo se o nome do projeto "projeto-xxx" já exista no mundo.
+Muitas pessoas usam **"meunome.com"**, que é muito bom, com isso se tem alguns benefícios, como ter a possibilidade de lançar **"meunome.com/projeto-xxx"**, mesmo se o nome do projeto "projeto-xxx" já exista.
 
-Se você tem único, um amplo nome para todos os seus projetos, você pode obter vários benefícios:
+Se você tem um único e amplo nome para todos os seus projetos, você pode obter vários benefícios:
 
-1. Você não tem que registrar novos nomes + redes sociais + e-mails para cada projeto seu. Muito tempo poupado!
-2. Você irá economizar o dinheiro da compra dos domínios
-3. Você não vai ter uma explosão de dopamina ao encontrar um bom nome e logo o registrando, em vez disso, você será  forçado a trabalhar no projeto
-4. Se o projeto não tracionar, e você quiser removê-lo no futuro, nada estará impedindo você!
+1. Você não tem que registrar novos nomes, nem redes sociais, nem e-mails para cada projeto seu. Segure esse tempo poupado!
+2. Você irá economizar o dinheiro da compra dos domínios.
+3. Você não vai ter uma explosão de dopamina ao encontrar um nome legal e logo em seguida registrando ele, em vez disso, você será forçado a trabalhar no projeto.
+4. Se o projeto não alavancar, e você quiser removê-lo no futuro, nada estará impedindo você 😎.
 
-Apenas espere que haja real progresso adiante.
+Apenas espere que o projeto conquiste real progresso.
 
-## Espere 7 dias antes de comprar algum novo domínio
+## Aguarde 7 dias antes de comprar um novo domínio
 
-Talvez você realmente queira aquele nome - mas espere um pouco até comprá-lo.
+Talvez você realmente queira aquele nome, mas, espere um pouco até comprá-lo.
 
 É quase certo que ele estará disponível na próxima semana, então espere uma semana e então se pergunte: "Eu realmente quero isso?"
 
-Eu aposto que mais da metade desses nomes de domínios, você não se importará uma semana depois.
+<iframe src="https://giphy.com/embed/QxY6Wuk9gtA3ReJb8b" width="350" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/eatoutamerica-interscope-matty-and-benny-eat-out-america-QxY6Wuk9gtA3ReJb8b"></a></p>
 
-## Faça coisas incríveis
+Eu aposto que mais da metade desses nomes de domínios que cogitou comprar, você não se importará uma semana depois.
 
-Se você optou por continuar comprando nomes de domínio ou não, considero ótimo que o desejo de os criar nos motive.
+## Faça coisas incríveis 🤩
+
+Se você optou por continuar comprando nomes de domínio ou não, considero admirável que o desejo de os criar nos motive.
 
 Descubra se você consegue fazer as pazes com a sua crescente lista de domínios não utilizados, ou se você deve usar algumas das táticas aqui listadas para se auto prevenir de comprar por impulso.
 
-Tente se gentil consigo mesmo: É difícil mudar seu próprio comportamento.
+Tente ser gentil consigo mesmo, é no mínimo difícil mudar nosso próprio comportamento.
 
-E continue fazendo coisas incríveis
+E continue fazendo coisas incríveis 😁.
