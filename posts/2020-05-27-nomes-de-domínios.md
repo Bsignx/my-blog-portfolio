@@ -22,7 +22,7 @@ Três meses se passaram, e adivinha só? Você não tem nada... Isso mesmo! Voc�
 
 <iframe src="https://giphy.com/embed/33iqmp5ATXT5m" width="480" height="205" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sad-depressed-disappointed-33iqmp5ATXT5m"></a></p>
 
-Então você o coloca na pilha de outros domínios abandonados. Um cemitério de ideias que você construiu no passar dos anos. Jogado em uma velha lista de ideias que irão lhe atormentar por muitos e muitos anos 😓.
+Então você o coloca na pilha de outros domínios abandonados. Um cemitério de ideias que você construiu ao passar dos anos. Jogado em uma velha lista de ideias que irão lhe atormentar por muitos e muitos anos 😓.
 
 **Por quê?**
 
@@ -61,7 +61,7 @@ Há pelos menos duas possíveis causas para esse pensamento distorcido:
 
 ## O que fazer sobre isso
 
-Lembre-se que existem MILHARES de nome de domínios que expiram todos os dias. Cada um desses foi comprado por alguém que pensou ser uma boa ideia... Então, um ano, dois anos, 10 anos se passaram, assim, deixando o domínio ir para o infinito e além. Você deseja ser um desses?
+Lembre-se que existem MILHARES de nome de domínios que expiram todos os dias. Cada um desses foi comprado por alguém que pensou ser uma boa ideia... Então, um ano, dois anos, 10 anos vão se passar, assim, deixando o domínio ir para o infinito e além. Você deseja ser um desses?
 
 Também, vale a pena lembrar que **.com** não é a única opção. Toneladas de empresas tem usado **.co**, **.io**, **.app** e agora há mais de 100 opções para escolher. As pessoas realmente não digitam os nomes de domínios de qualquer forma, elas buscam por eles, ou clicam em um link em algum lugar. 
 
@@ -88,7 +88,9 @@ A coisa mais importante a se fazer é reconhecer isso pelo que verdadeiramente �
 Tente este exercício:
 
 1. Acesse o site <https://leandomainsearch.com/> e procure por uma palavra qualquer e curta como: "projeto".
+
 2. Agora, VEJA TODOS ESSES NOMES LEGAIS.
+
 3. E finalmente, aqui está a parte mais difícil: NÃO COMPRE!
 
 **Parabéns**! Você acabou de treinar um pouco a sua mente olhando alguns nomes, e então não os comprando.
@@ -111,11 +113,13 @@ Muitas pessoas usam **"meunome.com"**, que é muito bom, com isso se tem alguns 
 Se você tem um único e amplo nome para todos os seus projetos, você pode obter vários benefícios:
 
 1. Você não tem que registrar novos nomes, nem redes sociais, nem e-mails para cada projeto seu. Segure esse tempo poupado!
+
 2. Você irá economizar o dinheiro da compra dos domínios.
 3. Você não vai ter uma explosão de dopamina ao encontrar um nome legal e logo em seguida registrando ele, em vez disso, você será forçado a trabalhar no projeto.
+
 4. Se o projeto não alavancar, e você quiser removê-lo no futuro, nada estará impedindo você 😎.
 
-Apenas espere que o projeto conquiste real progresso.
+Apenas espere que o projeto conquiste um real progresso.
 
 ## Aguarde 7 dias antes de comprar um novo domínio
 
@@ -127,7 +131,7 @@ Talvez você realmente queira aquele nome, mas, espere um pouco até comprá-lo.
 
 Eu aposto que mais da metade desses nomes de domínios que cogitou comprar, você não se importará uma semana depois.
 
-## Faça coisas incríveis 🤩
+## Faça coisas incríveis
 
 Se você optou por continuar comprando nomes de domínio ou não, considero admirável que o desejo de os criar nos motive.
 
